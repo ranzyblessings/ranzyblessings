@@ -9,7 +9,7 @@ I specialize in engineering scalable, highly optimized, and resilient enterprise
 - **AI/ML Integration:** Embedding advanced models for real-time analytics, predictive modeling, and anomaly detection.
 
 ## Currently Learning
-- **Advanced AI/ML Deployment:** Leveraging TensorFlow, PyTorch, and Pandas to drive real-time data processing and production-grade workflows.
+- **Advanced AI/ML Deployment:** Utilizing TensorFlow, Pandas, NumPy, Scikit-learn, and PyTorch for data preprocessing, model training, inference optimization, and scalable deployments.
 
 ## Collaboration Opportunities
 Open to strategic partnerships in:
