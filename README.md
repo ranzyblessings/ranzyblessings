@@ -13,6 +13,21 @@ I architect and engineer highly scalable, fault-tolerant cloud-native systems wi
 
 ---
 
+## 🚀 Recent OSS Contributions
+
+Contributing upstream to foundational open-source projects in build systems, cloud infrastructure, and data platforms:
+
+- **Poetry** – [PR #10335](https://github.com/python-poetry/poetry/pull/10335) *(open)*: Introduced version-pinned script generation for improved environment reproducibility.
+- **MongoDB Java Driver** – [JAVA-5829](https://github.com/mongodb/mongo-java-driver/pull/1680) *(open)*: Added `$concatArrays` and `$setUnion` accumulators to extend aggregation support.
+- **Spring Data MongoDB** – [PR #4943](https://github.com/spring-projects/spring-data-mongodb/pull/4943) *(open)*: Enabled native sorting of primitive arrays using `SortArray`.
+- **Gradle**:
+  - [Fix AttributeDisambiguationRule registration example](https://github.com/gradle/gradle/pull/33031): Corrected API usage in documentation to reflect valid rule registration patterns.
+  - [Enhance Checkstyle plugin docs with toolchain guidance](https://github.com/gradle/gradle/commit/13976d2205770f54c26384a30202003256917a7d): Improved clarity on Java toolchain integration with Checkstyle.
+
+Focus areas include developer experience, runtime correctness, and maintainability across distributed systems and tooling ecosystems.
+
+---
+
 ## 🤝 Open to Collaborate
 
 Actively exploring technical leadership opportunities in cloud-native systems, intelligent automation, open-source contributions, and scalable infrastructure.
